@@ -1,0 +1,18 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+pymongo
+dill
+PyYAML
+boto3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+
+# -e .
