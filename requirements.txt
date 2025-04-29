@@ -7,6 +7,8 @@ scipy
 scikit-learn
 imblearn
 pymongo
+certifi
+python-dotenv
 dill
 PyYAML
 boto3
