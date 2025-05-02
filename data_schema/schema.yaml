@@ -1,0 +1,36 @@
+columns:
+  - case_id: str
+  - continent: str
+  - education_of_employee: str
+  - has_job_experience: str
+  - requires_job_training: str
+  - no_of_employees: int64
+  - yr_of_estab: int64
+  - region_of_employment: str
+  - prevailing_wage: float
+  - unit_of_wage: str
+  - full_time_position: str
+  - case_status: str 
+
+
+numerical_columns:
+  - no_of_employees
+  - yr_of_estab
+  - prevailing_wage
+
+
+
+categorical_columns:
+  - case_id
+  - continent
+  - education_of_employee
+  - has_job_experience
+  - requires_job_training
+  - region_of_employment
+  - unit_of_wage
+  - full_time_position
+  - case_status
+
+
+
+
